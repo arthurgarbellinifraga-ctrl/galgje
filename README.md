@@ -10,3 +10,10 @@
 
 1.Samantha: a
 2.Logan: t
+3.Samatha: p
+
+5.Samatha: r
+
+6.Samatha: o
+
+8.Samatha: f
