@@ -11,9 +11,11 @@
 1.Samantha: a
 2.Logan: t
 3.Samatha: p
-
+4.Logan b
 5.Samatha: r
-
-6.Samatha: o
-
-8.Samatha: f
+6.Logan: y
+7.Samatha: o
+8.Logan: f
+9.Samatha: i
+10.Logan: n
+11.Samatha: g
